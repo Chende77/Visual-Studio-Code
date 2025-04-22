@@ -1,0 +1,4 @@
+Nombre y apellido = Javie Camejo
+Edad = 25
+CI: 28.176.859
+Estado civil = Soltero
