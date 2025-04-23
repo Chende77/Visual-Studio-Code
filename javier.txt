@@ -6,3 +6,4 @@ Que Desea = Ser millonario para darle todo a mama y abuela
 Altura = 1.85cm
 Color de Piel = Moreno
 Egocentrico = Si
+#Aprendiendo a Programar
