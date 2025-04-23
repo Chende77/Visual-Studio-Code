@@ -7,3 +7,4 @@ Altura = 1.85cm
 Color de Piel = Moreno
 Egocentrico = Si
 #Aprendiendo a Programar
+#Agradecido
