@@ -8,3 +8,4 @@ Color de Piel = Moreno
 Egocentrico = Si
 #Aprendiendo a Programar
 #Agradecido
+Fin de la parte 1
